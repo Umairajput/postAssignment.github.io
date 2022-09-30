@@ -1,0 +1,93 @@
+.main_div {
+    height: auto;
+    border-radius: 5px;
+    background-color: #242527;
+    width: 30%;
+    margin: 10px auto;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.head {
+    height: 50px;
+    border-bottom: 2px solid gray;
+}
+
+.profile {
+    width: 200px;
+    margin-top: -18px;
+
+}
+
+.text {
+    margin-left: 12px;
+    border-radius: 8px;
+    border: 2px solid gray;
+    background-color: #1a1a1a;
+    width: 94%;
+    height: 200px;
+    color: white;
+}
+
+/* .img {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+.frnd-img {
+    width: 20px;
+}
+.spn {
+    margin-top: -20px;
+    margin-left: 40px;
+} */
+#spn {
+    font-size: 70px;
+    color: white;
+}
+
+#span-1 {
+    font-size: 70px;
+    color: white;
+}
+
+.back {
+    height: 50px;
+    width: 50px;
+    margin-top: 15px;
+    margin-left: 12px;
+    border-radius: 5px;
+}
+
+.lower_div {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 12px;
+    margin-top: 10px;
+    border-radius: 8px;
+    width: 94%;
+}
+
+.btn {
+    background-color: #242527;
+    width: 70px;
+    height: 40px;
+    color: blue;
+    border: none;
+    margin-left: 150px;
+    font-size: 25px;
+}
+
+.butn {
+    width: 94%;
+    margin-left: 12px;
+    height: 40px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
